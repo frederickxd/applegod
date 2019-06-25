@@ -1,4 +1,4 @@
-# applegod
+# AppleGOD
 Version 0.0.1  |  Spigot 1.14
 
 https://minecraft.curseforge.com/projects/applegod

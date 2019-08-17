@@ -1,0 +1,15 @@
+main: com.tacaly.AppleGOD.main
+name: AppleGOD
+version: 0.0.4
+api-version: 1.14
+author: Tacaly
+website: www.tacaly.com
+
+prefix: AppleGOD
+usage: "Usage: /applegodv"
+description: >
+            Crafting Apples!
+
+commands:
+  applegodv:
+      description: Shows the plugin version number

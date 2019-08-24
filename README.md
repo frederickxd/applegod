@@ -20,10 +20,10 @@ Version 0.0.3  |  Spigot 1.14
         <img src="https://img.shields.io/github/issues-raw/dot-browser/desktop.svg" alt="Issues Open">
     </a>
     <a href="/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed">
-        <img src="https://img.shields.io/github/issues-closed-raw/dot-browser/desktop.svg" alt="Issues Closed">
+        <img src="https://img.shields.io/github/issues-closed-raw/applegod/spigot.svg" alt="Issues Closed">
     </a>
     <a href="/LICENSE">
-        <img src="https://img.shields.io/github/license/dot-browser/desktop.svg" alt="License">
+        <img src="https://img.shields.io/github/license/applegod/spigot.svg" alt="License">
     </a>
     <p align="center">
       <a href="https://depfu.com/repos/applegod/spigot?project_id=8779">

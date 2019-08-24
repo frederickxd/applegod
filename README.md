@@ -5,10 +5,10 @@ Version 0.0.3  |  Spigot 1.14
 
 <p align="center">
     <a href="/releases">
-        <img src="https://img.shields.io/github/downloads/dot-browser/desktop/total.svg" alt="Downloads">
+        <img src="https://img.shields.io/github/downloads/applegod/spigot/total.svg" alt="Downloads">
     </a>
     <a href="/releases">
-        <img src="http://hits.dwyl.io/dot-browser/desktop.svg" alt="Hits">
+        <img src="http://hits.dwyl.io/applegod/spigot.svg" alt="Hits">
     </a>
     <a href="https://invite.gg/tacaly">
         <img src="https://discordapp.com/api/guilds/307605794680209409/widget.png?style=shield" alt="Discord">

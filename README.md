@@ -10,7 +10,7 @@ Version 0.0.3  |  Spigot 1.14
     <a href="/releases">
         <img src="http://hits.dwyl.io/dot-browser/desktop.svg" alt="Hits">
     </a>
-    <a href="https://invite.gg/dot">
+    <a href="https://invite.gg/tacaly">
         <img src="https://discordapp.com/api/guilds/307605794680209409/widget.png?style=shield" alt="Discord">
     </a>
     <a href="/">
@@ -22,7 +22,7 @@ Version 0.0.3  |  Spigot 1.14
     <a href="/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aclosed">
         <img src="https://img.shields.io/github/issues-closed-raw/dot-browser/desktop.svg" alt="Issues Closed">
     </a>
-    <a href="/blob/master/LICENSE">
+    <a href="/LICENSE">
         <img src="https://img.shields.io/github/license/dot-browser/desktop.svg" alt="License">
     </a>
     <p align="center">

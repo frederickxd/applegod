@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ## [Released]
 
+## [0.0.5]
+### Changed
+- Reworked the code to another program
+- Updated the SDK to spigot version 1.16.1
+
 ## [0.0.4] - 2019-06-28
 ### Added
 - Added new class for command instead of making them in main class

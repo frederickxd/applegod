@@ -6,7 +6,7 @@
 
     <groupId>com.tacaly</groupId>
     <artifactId>AppleGOD</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.5</version>
     <packaging>jar</packaging>
 
     <name>AppleGOD</name>

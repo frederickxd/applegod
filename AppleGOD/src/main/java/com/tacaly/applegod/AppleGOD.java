@@ -10,7 +10,6 @@ public final class AppleGOD extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-///////////////////////////////////////////////////////////
 
         //saving to log
         getLogger().info("Has been enabled!");
@@ -19,8 +18,7 @@ public final class AppleGOD extends JavaPlugin {
         getCommand("applegodv").setExecutor(new command());
 
 
-        /////////////////////////////////////////////////
-        ////////// Normal Apple recipe
+        //Normal Apple recipe
 
         ItemStack applegnormal = new ItemStack(Material.APPLE, 1);
 
@@ -50,7 +48,7 @@ public final class AppleGOD extends JavaPlugin {
         APPLEGOLDEN.setIngredient('%', Material.GOLD_INGOT);
         APPLEGOLDEN.setIngredient('B', Material.APPLE);
 
-        // Add recipe to server
+        // Add recipe to server of golden apple
         getServer().addRecipe(APPLEGOLDEN);
     }
 

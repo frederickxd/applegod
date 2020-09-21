@@ -65,9 +65,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
     <configuration name="AppleGod_Intiliji_idea build" type="MavenRunConfiguration" factoryName="Maven">
@@ -106,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596324210806</updated>
       <workItem from="1596324213755" duration="1176000" />
-      <workItem from="1600710318296" duration="95000" />
+      <workItem from="1600710318296" duration="2505000" />
     </task>
     <servers />
   </component>
@@ -124,6 +131,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1600710416128">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -133,5 +143,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="635" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596324911150" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1600714416036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600714416036" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1600714416036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600714416036" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1600714416035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600714416035" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1600714416036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600714416036" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1600712636281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600712636281" />
+    <state x="731" y="314" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600710455340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="314" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600710455340" />
   </component>
 </project>

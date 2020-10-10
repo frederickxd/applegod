@@ -1,0 +1,25 @@
+First import the class.
+
+    import packageName.ClassName; 
+
+If the method is static, you could simply do this:
+
+    ClassName.method(); 
+
+If it is not, you need to create a new object and call it on that:
+
+    ClassName c = new ClassName(); 
+    c.method(); 
+
+For example, if I had a Dog class with a bark method and wanted to call that in another class, I would do this:
+
+    Dog.bark(); 
+    //or 
+    Dog myDog = new Dog(); 
+    myDog.bark(); 
+
+This also applies for variables
+
+
+
+https://www.quora.com/How-can-I-call-a-class-from-another-class-in-Java

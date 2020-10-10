@@ -18,5 +18,5 @@ I will update the plugin when needed. Feel free to join the Discord server.
 https://discord.gg/n4AQVS8
 
 ### Crafting an apple
-![image of crafting an apple](https://tacaly.com/wp-content/uploads/2019/06/craft-in-system.png)
+![image of crafting an apple](img/craft.png)
 

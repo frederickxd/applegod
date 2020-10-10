@@ -114,6 +114,8 @@
       <updated>1596324210806</updated>
       <workItem from="1596324213755" duration="1176000" />
       <workItem from="1600710318296" duration="2505000" />
+      <workItem from="1601839700425" duration="93000" />
+      <workItem from="1601839845324" duration="20000" />
     </task>
     <servers />
   </component>
@@ -130,6 +132,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myShow1" value="true" />

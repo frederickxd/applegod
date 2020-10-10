@@ -1,5 +1,5 @@
 # AppleGOD
-Version 0.0.5  |  Spigot 1.16.1
+Version 0.0.6  |  Spigot 1.16.1
 
 
 

@@ -18,5 +18,5 @@ I will update the plugin when needed. Feel free to join the Discord server.
 https://discord.gg/n4AQVS8
 
 ### Crafting an apple
-![image of crafting an apple](img/craft.png)
+![image of crafting an apple](img/craft in system.png)
 

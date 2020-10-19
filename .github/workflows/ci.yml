@@ -1,0 +1,9 @@
+name: testbuild
+steps:
+  - name: Test & publish code coverage
+    uses: paambaati/codeclimate-action@v2.7.4
+    env:
+      CC_TEST_REPORTER_ID: 780a95575bbda50b4a0cd63899e380ba9233dc0da99230717c01b2df6a0b9c46
+    with:
+      coverageCommand: java
+      debug: true

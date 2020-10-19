@@ -1,5 +1,6 @@
 # AppleGOD
 Version 0.0.6  |  Spigot 1.16.1
+
 ![CodeQL](https://github.com/Ylacat/AppleGod/workflows/CodeQL/badge.svg)
 <a href="https://codeclimate.com/github/Ylacat/applegod/maintainability"><img src="https://api.codeclimate.com/v1/badges/c09768dbb74ba270a960/maintainability" /></a>
 

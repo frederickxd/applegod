@@ -14,53 +14,53 @@ public class recipes {
         //Normal Apple recipe
         ItemStack applegnormal = new ItemStack(Material.APPLE, 1);
 
-        ShapedRecipe APPLEYOUNG;
-        APPLEYOUNG = new ShapedRecipe(applegnormal);
+        ShapedRecipe AppleYoung;
+        AppleYoung = new ShapedRecipe(applegnormal);
 
         //crafting grid
-        APPLEYOUNG.shape("*%*","%B%","*%*");
+        AppleYoung.shape("*%*","%B%","*%*");
 
-        APPLEYOUNG.setIngredient('*', Material.STICK);
-        APPLEYOUNG.setIngredient('%', Material.COBBLESTONE);
-        APPLEYOUNG.setIngredient('B', Material.WHEAT_SEEDS);
+        AppleYoung.setIngredient('*', Material.STICK);
+        AppleYoung.setIngredient('%', Material.COBBLESTONE);
+        AppleYoung.setIngredient('B', Material.WHEAT_SEEDS);
 
         // Add recipe to server of golden apple
-        getServer().addRecipe(APPLEYOUNG);
+        getServer().addRecipe(AppleYoung);
 
         ///////////////////////////////////////////////
         //golden apple recipe
         ItemStack applegGoldem = new ItemStack(Material.GOLDEN_APPLE, 1);
 
-        ShapedRecipe APPLEGOLDEN;
-        APPLEGOLDEN = new ShapedRecipe(applegGoldem);
+        ShapedRecipe AppleGolden;
+        AppleGolden = new ShapedRecipe(applegGoldem);
 
         //crafting shape
-        APPLEGOLDEN.shape("*%*","%B%","*%*");
+        AppleGolden.shape("*%*","%B%","*%*");
         //crafting grid
-        APPLEGOLDEN.setIngredient('*', Material.STICK);
-        APPLEGOLDEN.setIngredient('%', Material.GOLD_INGOT);
-        APPLEGOLDEN.setIngredient('B', Material.APPLE);
+        AppleGolden.setIngredient('*', Material.STICK);
+        AppleGolden.setIngredient('%', Material.GOLD_INGOT);
+        AppleGolden.setIngredient('B', Material.APPLE);
 
         // Add recipe to server of golden apple
-        getServer().addRecipe(APPLEGOLDEN);
+        getServer().addRecipe(AppleGolden);
 
         ///////////////////////////////////////////////
         //enchanted apple
         ItemStack appleEnchanted = new ItemStack(Material.ENCHANTED_GOLDEN_APPLE, 1);
 
 
-        ShapedRecipe APPLEENCHANTED;
-        APPLEENCHANTED = new ShapedRecipe(appleEnchanted);
+        ShapedRecipe AppleEnchanted;
+        AppleEnchanted = new ShapedRecipe(appleEnchanted);
 
         //crafting shape
-        APPLEENCHANTED.shape("*%*","%B%","*%*");
+        AppleEnchanted.shape("*%*","%B%","*%*");
         //crafting grid
-        APPLEENCHANTED.setIngredient('*', Material.NETHERITE_INGOT);
-        APPLEENCHANTED.setIngredient('%', Material.EXPERIENCE_BOTTLE);
-        APPLEENCHANTED.setIngredient('B', Material.GOLDEN_APPLE);
+        AppleEnchanted.setIngredient('*', Material.NETHERITE_INGOT);
+        AppleEnchanted.setIngredient('%', Material.EXPERIENCE_BOTTLE);
+        AppleEnchanted.setIngredient('B', Material.GOLDEN_APPLE);
 
         // Add recipe to server of golden apple
-        getServer().addRecipe(APPLEENCHANTED);
+        getServer().addRecipe(AppleEnchanted);
 
     }
 

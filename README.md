@@ -1,7 +1,7 @@
 # AppleGOD
 Version 0.0.6  |  Spigot 1.16.1
 
-
+<a href="https://codeclimate.com/github/Ylacat/applegod/maintainability"><img src="https://api.codeclimate.com/v1/badges/c09768dbb74ba270a960/maintainability" /></a>
 
 Spigot plugin
 https://www.spigotmc.org/resources/applegod.68729/

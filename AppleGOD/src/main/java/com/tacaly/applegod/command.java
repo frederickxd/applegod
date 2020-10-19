@@ -15,9 +15,18 @@ public class command implements CommandExecutor {
                 //Sends the message to the player
                 sender.sendMessage("[AppleGOD] Version 0.0.6");
                 return true;
+
             }
 
+            //give the player who wrote the coomand an apple.
 
+            if (label.equalsIgnoreCase("givemeapple)")) {
+                sender.sendMessage("[AppleGOD] You got 1 apple");
+
+                return true;
+            }
+
+            // Sends false due to no commands
             return false;
         }
 

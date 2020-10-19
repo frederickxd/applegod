@@ -13,6 +13,7 @@ public final class AppleGOD extends JavaPlugin {
 
         //command name set
         getCommand("applegodv").setExecutor(new command());
+        getCommand( "givemeapple").setExecutor(new command());
 
         // call java class recipes
         recipes.recipe();

@@ -27,7 +27,6 @@
       <change beforePath="$PROJECT_DIR$/../.github/workflows/codeql-analysis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.github/workflows/codeql-analysis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/command.java" afterDir="false" />
@@ -134,7 +133,7 @@
       <workItem from="1602367222155" duration="4263000" />
       <workItem from="1602428399070" duration="2510000" />
       <workItem from="1602608548207" duration="1317000" />
-      <workItem from="1603150982432" duration="165000" />
+      <workItem from="1603150982432" duration="871000" />
     </task>
     <servers />
   </component>

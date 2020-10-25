@@ -56,11 +56,28 @@ public class recipes {
         AppleEnchanted.shape("*%*","%B%","*%*");
         //crafting grid
         AppleEnchanted.setIngredient('*', Material.NETHERITE_INGOT);
-        AppleEnchanted.setIngredient('%', Material.EXPERIENCE_BOTTLE);
+        AppleEnchanted.setIngredient('%', Material.STONE_PRESSURE_PLATE);
         AppleEnchanted.setIngredient('B', Material.GOLDEN_APPLE);
 
         // Add recipe to server of golden apple
         getServer().addRecipe(AppleEnchanted);
+
+        ///////////////////////////////////////////////
+        //Totem of undying
+        ItemStack totemOfundying = new ItemStack(Material.TOTEM_OF_UNDYING, 1);
+
+        ShapedRecipe TotemOfundying;
+        TotemOfundying = new ShapedRecipe(totemOfundying);
+
+        //crafting shape
+        TotemOfundying.shape("*%*","%B%","*%*");
+        //crafting grid
+        TotemOfundying.setIngredient('*', Material.BAMBOO);
+        TotemOfundying.setIngredient('%', Material.GOLD_INGOT);
+        TotemOfundying.setIngredient('B', Material.HEART_OF_THE_SEA);
+
+        // Add recipe to server
+        getServer().addRecipe(TotemOfundying);
 
     }
 

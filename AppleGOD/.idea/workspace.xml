@@ -26,13 +26,16 @@
       <change beforePath="$PROJECT_DIR$/../.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.github/FUNDING.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.github/workflows/ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/codeql-analysis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.github/workflows/codeql-analysis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/AppleGOD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/AppleGOD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/command.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/recipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tacaly/applegod/recipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SECURITY.md" afterDir="false" />
@@ -137,6 +140,7 @@
       <workItem from="1602608548207" duration="1317000" />
       <workItem from="1603150982432" duration="871000" />
       <workItem from="1603642430650" duration="740000" />
+      <workItem from="1603751585530" duration="154000" />
     </task>
     <servers />
   </component>
@@ -167,22 +171,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="635" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596324911150" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1602372564572">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1603751739935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602372564572" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1602372564572">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603751739935" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1603751739934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602372564572" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1602372564572">
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603751739934" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1603751739934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602372564572" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1602372564572">
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603751739934" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1603751739935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602372564572" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603751739935" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1600712636281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

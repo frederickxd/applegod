@@ -12,4 +12,6 @@ description: >
 
 commands:
   applegodv:
-    description: Shows the plugin version number
+    description: Shows the plugin version number.
+  givemeapple:
+    description: Gives an Apple to the player who writes the code.

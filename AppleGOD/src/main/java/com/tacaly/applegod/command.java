@@ -13,7 +13,7 @@ public class command implements CommandExecutor {
             //Gives the AppleGOD plugin version
             if (label.equalsIgnoreCase("applegodv")) {
                 //Sends the message to the player
-                sender.sendMessage("[AppleGOD] Version 0.0.6");
+                sender.sendMessage("[AppleGOD] Version 0.0.7");
                 return true;
 
             }

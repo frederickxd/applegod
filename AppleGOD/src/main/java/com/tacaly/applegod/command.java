@@ -16,30 +16,32 @@ public class command implements CommandExecutor {
             //Gives the AppleGOD plugin version
             if (label.equalsIgnoreCase("applegodv")) {
                 //Sends the message to the player
-                sender.sendMessage("[AppleGOD] Version 0.0.7");
+                sender.sendMessage("[AppleGOD] Version 0.0.8");
                 return true;
 
             }
 
             //give the player who wrote the coomand an apple.
 
+
             if (label.equalsIgnoreCase("givemeapple)")) {
 
-                ItemStack Item = new ItemStack(Material.APPLE);
-                Player p = p.getPlayer();
+                    ItemStack Item = new ItemStack(Material.APPLE);
+                // Player p = p.getPlayer();
 
-                if (!p.getPlayer().hasPlayedBefore()) {
-                    p.getInventory().addItem(Item);
-                    sender.sendMessage("[AppleGOD] You got 1 apple");
-                }else {
-                    sender.sendMessage("[AppleGOD] You already got 1 apple");
+                // if (!getPlayer.hasPlayedBefore() ){
+                        //  p.getInventory().addItem(Item);
+                        sender.sendMessage("[AppleGOD] You got 1 apple");
+                //  }else{
+                        sender.sendMessage("[AppleGOD] You already got 1 apple");
+                //  }
+                    return true;
                 }
-                return true;
+
+
+                // Sends false due to no commands
+                return false;
             }
 
-            // Sends false due to no commands
-            return false;
         }
-
-    }
 

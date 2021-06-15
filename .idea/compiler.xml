@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AppleGOD" />
+        <module name="mavenbuild" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AppleGOD" target="1.8" />
+      <module name="AppleGOD" target="1.16" />
+      <module name="mavenbuild" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

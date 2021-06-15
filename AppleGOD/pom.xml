@@ -12,10 +12,10 @@
     <name>AppleGOD</name>
 
     <properties>
-        <java.version>1.16</java.version>
+        <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>tacaly.com</url>
+    <url>https://tacaly.com</url>
 
     <build>
         <plugins>

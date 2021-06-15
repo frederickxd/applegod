@@ -1,7 +1,7 @@
 name: AppleGOD
 version: ${project.version}
 main: com.tacaly.applegod.AppleGOD
-api-version: 1.17
+api-version: 1.16
 website: tacaly.com
 author: Tacaly
 

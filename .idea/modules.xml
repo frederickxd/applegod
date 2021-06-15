@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppleGOD/AppleGOD.iml" filepath="$PROJECT_DIR$/AppleGOD/AppleGOD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AppleGod.iml" filepath="$PROJECT_DIR$/.idea/AppleGod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenbuild/mavenbuild.iml" filepath="$PROJECT_DIR$/mavenbuild/mavenbuild.iml" />
     </modules>
   </component>
 </project>

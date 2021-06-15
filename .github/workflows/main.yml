@@ -16,8 +16,9 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Maven
-      run: cd AppleGOD 
-      run: mvn clean package
+      run: |
+        cd /AppleGOD 
+        mvn clean package
     - uses: actions/upload-artifact@v1
       with:
         name: artifact

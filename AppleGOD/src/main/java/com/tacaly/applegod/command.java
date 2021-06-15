@@ -1,8 +1,11 @@
 package com.tacaly.applegod;
 
+import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.ItemStack;
 
 public class command implements CommandExecutor {
         @Override
@@ -21,8 +24,16 @@ public class command implements CommandExecutor {
             //give the player who wrote the coomand an apple.
 
             if (label.equalsIgnoreCase("givemeapple)")) {
-                sender.sendMessage("[AppleGOD] You got 1 apple");
 
+                ItemStack Item = new ItemStack(Material.APPLE);
+                Player p = p.getPlayer();
+
+                if (!p.getPlayer().hasPlayedBefore()) {
+                    p.getInventory().addItem(Item);
+                    sender.sendMessage("[AppleGOD] You got 1 apple");
+                }else {
+                    sender.sendMessage("[AppleGOD] You already got 1 apple");
+                }
                 return true;
             }
 

@@ -2,7 +2,7 @@
 Version 0.0.8  |  Spigot 1.17
 
 ![CodeQL](https://github.com/Ylacat/AppleGod/workflows/CodeQL/badge.svg)
-<a href="https://codeclimate.com/github/Ylacat/applegod/maintainability"><img src="https://api.codeclimate.com/v1/badges/c09768dbb74ba270a960/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/0ab54848c2d179705159/maintainability)](https://codeclimate.com/github/Ylacat/AppleGod/maintainability)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYlacat%2FAppleGod.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYlacat%2FAppleGod?ref=badge_shield)
 [![Java CI with Maven](https://github.com/Ylacat/AppleGod/actions/workflows/main.yml/badge.svg)](https://github.com/Ylacat/AppleGod/actions/workflows/main.yml)
 

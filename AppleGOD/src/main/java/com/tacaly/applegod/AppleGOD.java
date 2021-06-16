@@ -18,6 +18,13 @@ public final class AppleGOD extends JavaPlugin {
         } catch (Exception e) {
             Sentry.captureException(e);
         }
+        new UpdateChecker(this, 68729).getVersion(version -> {
+                    if (this.getDescription().getVersion().equalsIgnoreCase(version)) {
+                        getLogger().info("There is not a new update available.");
+                    } else {
+                        getLogger().info("There is a new update available.");
+                    }
+                });
 
         //command name set
         getCommand("applegodv").setExecutor(new command());

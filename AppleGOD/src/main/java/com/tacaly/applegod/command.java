@@ -1,11 +1,13 @@
 package com.tacaly.applegod;
 
+import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.PlayerInventory;
 
 public class command implements CommandExecutor {
         @Override
@@ -25,18 +27,19 @@ public class command implements CommandExecutor {
 
 
             if (label.equalsIgnoreCase("givemeapple)")) {
+                if (sender instanceof Player) {
+                    Player player = (Player) sender;
 
-                    ItemStack Item = new ItemStack(Material.APPLE);
-                // Player p = p.getPlayer();
+                    // Create a new ItemStack (type: diamond)
+                    ItemStack givenormalapple = new ItemStack(Material.APPLE);
 
-                // if (!getPlayer.hasPlayedBefore() ){
-                        //  p.getInventory().addItem(Item);
-                        sender.sendMessage("[AppleGOD] You got 1 apple");
-                //  }else{
-                        sender.sendMessage("[AppleGOD] You already got 1 apple");
-                //  }
-                    return true;
+                    // Set the amount of the ItemStack
+                    givenormalapple.setAmount(1);
+
+                    // Give the player our items (comma-seperated list of all ItemStack)
+                    player.getInventory().addItem(givenormalapple);
                 }
+            }
 
 
                 // Sends false due to no commands

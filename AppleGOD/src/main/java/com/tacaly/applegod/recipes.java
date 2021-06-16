@@ -9,7 +9,7 @@ import static org.bukkit.Bukkit.getServer;
 
 public class recipes {
     public static void recipe() {
-        //@SuppressWarnings("deprecation")
+        @SuppressWarnings("deprecation")
 
         //Normal Apple recipe
         ItemStack applegnormal = new ItemStack(Material.APPLE, 1);

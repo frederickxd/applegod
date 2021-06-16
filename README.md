@@ -24,7 +24,7 @@ https://discord.gg/3zKZnmN
 ### Crafting an apple
 ![image of crafting an apple](img/craft.png)
 
-If you wanna test the plugin before download, go here: play.aetherplexus.com
+If you wanna test the plugin before download, go here: serv.tacaly.de:25565
 (If the server is not online please contact me on discord)
 
 ![YourKit](https://www.yourkit.com/images/yklogo.png)

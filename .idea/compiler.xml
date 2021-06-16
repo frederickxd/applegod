@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AppleGOD" target="1.16" />
+      <module name="AppleGOD" target="1.8" />
       <module name="mavenbuild" target="1.8" />
     </bytecodeTargetLevel>
   </component>

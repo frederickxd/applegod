@@ -37,7 +37,7 @@ public class recipes {
         //crafting shape
         AppleDif.shape("","","*%");
         //crafting grid
-        AppleDif.setIngredient('*', Material.MELON_SEEDS;
+        AppleDif.setIngredient('*', Material.MELON_SEEDS);
         AppleDif.setIngredient('%', Material.ENDER_PEARL);
 
         // Add recipe to server

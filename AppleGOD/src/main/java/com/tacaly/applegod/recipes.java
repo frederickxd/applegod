@@ -28,6 +28,22 @@ public class recipes {
         getServer().addRecipe(AppleYoung);
 
         ///////////////////////////////////////////////
+        //Apple dif. crafting methoed
+        ItemStack appleDif = new ItemStack(Material.APPLE, 1);
+
+        ShapedRecipe AppleDif;
+        AppleDif = new ShapedRecipe(appleDif);
+
+        //crafting shape
+        AppleDif.shape("","","*%");
+        //crafting grid
+        AppleDif.setIngredient('*', Material.MELON_SEEDS;
+        AppleDif.setIngredient('%', Material.ENDER_PEARL);
+
+        // Add recipe to server
+        getServer().addRecipe(AppleDif);
+
+        ///////////////////////////////////////////////
         //golden apple recipe
         ItemStack applegGoldem = new ItemStack(Material.GOLDEN_APPLE, 1);
 

@@ -12,9 +12,9 @@ public final class AppleGOD extends JavaPlugin {
             options.setDsn("https://6003ad3d131a420da26873fdfba15d1a@o61262.ingest.sentry.io/5505032");
         });
         //saving to log
-        getLogger().info("Has been enabled!");
         try {
-            throw new Exception("Plugin enabled.");
+            getLogger().info("Has been enabled!");
+           // throw new Exception("Plugin enabled.");
         } catch (Exception e) {
             Sentry.captureException(e);
         }

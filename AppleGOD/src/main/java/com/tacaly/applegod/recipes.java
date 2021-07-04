@@ -1,6 +1,7 @@
 package com.tacaly.applegod;
 
 import org.bukkit.Material;
+import org.bukkit.entity.Minecart;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.ShapedRecipe;
 
@@ -35,10 +36,11 @@ public class recipes {
         AppleDif = new ShapedRecipe(appleDif);
 
         //crafting shape
-        AppleDif.shape("","","*%");
+        AppleDif.shape("000","000","*%0");
         //crafting grid
         AppleDif.setIngredient('*', Material.MELON_SEEDS);
         AppleDif.setIngredient('%', Material.ENDER_PEARL);
+        AppleDif.setIngredient('0', Material.STICK);
 
         // Add recipe to server
         getServer().addRecipe(AppleDif);
